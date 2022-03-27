@@ -1,6 +1,9 @@
 # Lock-free-Stack
 Изучение кода LF Stack
 
+
+<img width="753" alt="Снимок экрана 2022-03-28 в 01 14 58" src="https://user-images.githubusercontent.com/102489434/160303305-1a6c0e58-088e-4f7f-8f3f-0767c913df78.png">
+
 3. Изучение кода LF Stack [1.0]
 
 Будем рассматривать код из CatBoost. А именно, нас интересует Lock-free Stack. Язык: С++.
@@ -16,4 +19,3 @@
 
 4. Попробуйте облегчить модель памяти, замерьте производительность. Какой прирост по времени получился?
 
-<img width="753" alt="Снимок экрана 2022-03-28 в 01 14 58" src="https://user-images.githubusercontent.com/102489434/160303305-1a6c0e58-088e-4f7f-8f3f-0767c913df78.png">
